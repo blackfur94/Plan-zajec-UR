@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Plan zajęć UR</string>
+
+    <string-array name="dni">
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+        <item>Niedziela</item>
+    </string-array>
+
+
+    <string-array name="tydzien">
+        <item>Co tydzień</item>
+        <item>1/3 tydzień</item>
+        <item>2/4 tydzień</item>
+    </string-array>
+
+    <string-array name="rodzajZajec">
+        <item>Laboratoria</item>
+        <item>Ćwiczenia</item>
+        <item>Wykład</item>
+    </string-array>
+
+    <string-array name="godzinyRozpoczecia">
+        <item> od 07:00</item>
+        <item> od 07:15</item>
+        <item> od 07:30</item>
+        <item> od 07:45</item>
+        <item> od 08:00</item>
+        <item> od 08:15</item>
+        <item> od 08:30</item>
+        <item> od 08:45</item>
+        <item> od 09:00</item>
+        <item> od 09:15</item>
+        <item> od 09:30</item>
+        <item> od 09:45</item>
+        <item> od 10:00</item>
+        <item> od 10:15</item>
+        <item> od 10:30</item>
+        <item> od 10:45</item>
+        <item> od 11:00</item>
+        <item> od 11:15</item>
+        <item> od 11:30</item>
+        <item> od 11:45</item>
+        <item> od 12:00</item>
+        <item> od 12:15</item>
+        <item> od 12:30</item>
+        <item> od 12:45</item>
+        <item> od 13:00</item>
+        <item> od 13:15</item>
+        <item> od 13:30</item>
+        <item> od 13:45</item>
+        <item> od 14:00</item>
+        <item> od 14:15</item>
+        <item> od 14:30</item>
+        <item> od 14:45</item>
+        <item> od 15:00</item>
+        <item> od 15:15</item>
+        <item> od 15:30</item>
+        <item> od 15:45</item>
+        <item> od 16:00</item>
+        <item> od 16:15</item>
+        <item> od 16:30</item>
+        <item> od 16:45</item>
+        <item> od 17:00</item>
+        <item> od 17:15</item>
+        <item> od 17:30</item>
+        <item> od 17:45</item>
+        <item> od 18:00</item>
+        <item> od 18:15</item>
+        <item> od 18:30</item>
+    </string-array>
+
+    <string-array name="godzinyZakonczenia">
+        <item> do 08:30</item>
+        <item> do 08:45</item>
+        <item> do 09:00</item>
+        <item> do 09:15</item>
+        <item> do 09:30</item>
+        <item> do 09:45</item>
+        <item> do 10:00</item>
+        <item> do 10:15</item>
+        <item> do 10:30</item>
+        <item> do 10:45</item>
+        <item> do 11:00</item>
+        <item> do 11:15</item>
+        <item> do 11:30</item>
+        <item> do 11:45</item>
+        <item> do 12:00</item>
+        <item> do 12:15</item>
+        <item> do 12:30</item>
+        <item> do 12:45</item>
+        <item> do 13:00</item>
+        <item> do 13:15</item>
+        <item> do 13:30</item>
+        <item> do 13:45</item>
+        <item> do 14:00</item>
+        <item> do 14:15</item>
+        <item> do 14:30</item>
+        <item> do 14:45</item>
+        <item> do 15:00</item>
+        <item> do 15:15</item>
+        <item> do 15:30</item>
+        <item> do 15:45</item>
+        <item> do 16:00</item>
+        <item> do 16:15</item>
+        <item> do 16:30</item>
+        <item> do 16:45</item>
+        <item> do 17:00</item>
+        <item> do 17:15</item>
+        <item> do 17:30</item>
+        <item> do 17:45</item>
+        <item> do 18:00</item>
+        <item> do 18:15</item>
+        <item> do 18:30</item>
+        <item> do 18:45</item>
+        <item> do 19:00</item>
+        <item> do 19:15</item>
+        <item> do 19:30</item>
+        <item> do 19:45</item>
+        <item> do 20:00</item>
+    </string-array>
+
+</resources>

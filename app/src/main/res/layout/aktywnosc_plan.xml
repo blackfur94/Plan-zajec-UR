@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AktywnoscPlanu">
+
+    <ListView
+        android:id="@+id/listaZajec"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_marginStart="8sp"
+        android:layout_marginTop="0sp"
+        android:layout_marginEnd="8sp"
+        android:layout_marginBottom="0sp"
+        app:layout_constraintBottom_toTopOf="@+id/dodajZajecia"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dodajZajecia"
+        android:layout_width="match_parent"
+        android:layout_height="76sp"
+        android:text="Dodaj zajęcia"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</android.support.constraint.ConstraintLayout>
