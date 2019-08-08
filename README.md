@@ -1,6 +1,6 @@
 # Plan zajęć UR
 
-Aplikacja umożliwia stworzenie planu zajęć na Uniwersytecie Rzeszowskim
+Aplikacja umożliwia stworzenie planu zajęć na Uniwersytecie Rzeszowskim.
 
 # Wykorzystane technologie i biblioteki:
 
