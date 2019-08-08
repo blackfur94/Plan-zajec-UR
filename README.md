@@ -10,11 +10,11 @@ Aplikacja umożliwia stworzenie planu zajęć na Uniwersytecie Rzeszowskim.
 
 # Zrzuty ekranu
 
-![Alt text](/screenshots/1.JPEG?raw=true "Optional Title")
+![Alt text](/screenshots/1.JPG?raw=true "Optional Title")
 
-![Alt text](/screenshots/2.JPEG?raw=true "Optional Title")
+![Alt text](/screenshots/2.JPG?raw=true "Optional Title")
 
-![Alt text](/screenshots/3.JPEG?raw=true "Optional Title")
+![Alt text](/screenshots/3.JPG?raw=true "Optional Title")
 
 # Dokumenty
 
